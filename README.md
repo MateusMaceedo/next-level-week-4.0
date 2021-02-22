@@ -8,9 +8,9 @@ Trilha do evento Next Level Week na versão 4, desenvolvimento web com "React".
 
 # Introdução
 
-Fala Dev! Seja muito bem vindo ao **Next Level Week 04**, trilha **React** 🚀 
+Um evento gratuito para desenvolvimento web **Next Level Week 04**, trilha **React** 🚀 
 
-Para começar a preparar você para essa semana incrível de muito conteúdo e aprendizado, vamos começar configurando nosso ambiente de desenvolvimento, com algumas ferramentas fundamentais para chegarmos no fim desse evento com nosso app finalizado.
+Para começar o desenvolvimento e as atividades de muito conteúdo e aprendizado, é preciso configurar a ambeinte de desenvolvimento front, com algumas ferramentas fundamentais para chegar no fim do evento com o app finalizado.
 
 ## Preparando o ambiente
 
