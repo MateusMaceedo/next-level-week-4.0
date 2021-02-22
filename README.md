@@ -1,6 +1,4 @@
-<svg class="LogoAnimation full" width="350" height="350" xmlns="http://www.w3.org/2000/svg" viewBox="-200 -200 400 400"><title>React Logo</title><clipPath id="screen"><rect class="screen undefined" rx="3%" width="180" height="300" x="-90" y="-150" fill="none" stroke="gray"></rect></clipPath><rect x="-25" y="120" width="50" height="25" rx="2" fill="white" stroke="none" class="stand"></rect><polygon points="-125,90 125,90 160,145 -160,145" fill="white" stroke="white" stroke-width="5" stroke-linejoin="round" class="base"></polygon><rect class="screen background" rx="3%" width="180" height="300" x="-90" y="-150" stroke="none"></rect><g clip-path="url(#screen)" class="logo"><g class="logoInner"><circle cx="0" cy="0" r="30" fill="#61dafb"></circle><g stroke="#61dafb" stroke-width="15" fill="none" id="logo"><ellipse rx="165" ry="64"></ellipse><ellipse rx="165" ry="64" transform="rotate(60)"></ellipse><ellipse rx="165" ry="64" transform="rotate(120)"></ellipse></g></g><line x1="-30" x2="30" y1="130" y2="130" stroke="white" stroke-width="8" stroke-linecap="round" class="speaker"></line></g><rect class="screen undefined" rx="3%" width="180" height="300" x="-90" y="-150" fill="none" stroke="white"></rect></svg>
-
- <!-- <img src="https://elixir-lang.org/images/logo/logo.png" width="225" height="94"> --->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="100" height="100">
 
 # Next Level Week, trilha React.
 
