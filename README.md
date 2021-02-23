@@ -34,3 +34,5 @@ Preparados? Então vamos lá!
 
 [Tive problemas, e agora?](https://www.notion.so/Tive-problemas-e-agora-eec45ace41da4ffd83ff6c33da50d8b3)
 
+#### Dias
+- Dia 1: Fundamentos do React - :heavy_check_mark:
