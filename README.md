@@ -1,46 +1,38 @@
-# Getting Started with Create React App
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="512" height="362">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Next Level Week, trilha React.
 
-## Available Scripts
+Trilha do evento Next Level Week na versão 4, desenvolvimento web com "React".
 
-In the project directory, you can run:
+## Configurações do ambiente - React
 
-### `yarn start`
+# Introdução
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Um evento gratuito para desenvolvimento web **Next Level Week 04**, trilha **React** 🚀 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Para começar o desenvolvimento e as atividades de muito conteúdo e aprendizado, é preciso configurar a ambeinte de desenvolvimento front, com algumas ferramentas fundamentais para chegar no fim do evento com o app finalizado.
 
-### `yarn test`
+## Preparando o ambiente
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Sem mais delongas, vamos ao conteúdo principal desse guia: configuração do seu ambiente para o NLW. Teremos três etapas principais na seção "**Instalação"**:
 
-### `yarn build`
+- Node + NPM;
+- Yarn;
+- Visual Studio Code e configurações.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Se você já participou de alguma das nossas outras NLWs, já deve ter tudo isso instalado, mas talvez desatualizado. Por isso, preparamos uma seção "**Atualização"** para você atualizar suas dependências caso precise, mas sugerimos dar uma olhada pelo menos no guia Visual Studio Code na seção "**Instalação"** pois o Diego deixou algumas configs especialmente para você 💜
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Preparados? Então vamos lá!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif](https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif)
 
-### `yarn eject`
+# Guias
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[Instalação das ferramentas](https://www.notion.so/Instala-o-das-ferramentas-1c09af201b4b49c5bf1678842a96d9ab)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Atualização (versões diferentes)](https://www.notion.so/Atualiza-o-vers-es-diferentes-637ffc1d753a4d24a06c036710cff6b7)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Tive problemas, e agora?](https://www.notion.so/Tive-problemas-e-agora-eec45ace41da4ffd83ff6c33da50d8b3)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Dias
+- Dia 1: Fundamentos do React - :heavy_check_mark:
