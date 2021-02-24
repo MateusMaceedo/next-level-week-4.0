@@ -37,5 +37,7 @@ Preparados? Então vamos lá!
 #### Dias
 - Dia 1: Rumo ao próximo nível - :heavy_check_mark:
 - Dia 2: Desvendando o Next.js - :heavy_check_mark:
-
+- Dia 3:
+- Dia 4:
+- Dia 5:
 
