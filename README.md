@@ -41,6 +41,11 @@ Preparados? Então vamos lá!
 - Dia 2: Desvendando o Next.js - :heavy_check_mark:
 >Nesse segundo dia vamos aprender o que é Next.js e quando utilizar no desenvolvimento de aplicações React. Vamos também criar nossos próprios hooks dando vida às funcionalidades de countdown e ganho de experiência e leveis através de desafios.
 
-- Dia 3:
-- Dia 4:
-- Dia 5:
+- Dia 3: Contexto e componentes  - :heavy_check_mark:
+>Na terceiro aula realizaremos uma separação da aplicação em componentes menores e aplicaremos o conceito de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela. Finalizaremos também a funcionalidade de desafios.
+
+- Dia 4: Melhorando a usabilidade da aplicação  - :heavy_check_mark:
+>Na quarta aula iremos continuar evoluindo nossa aplicação, aprender ainda mais sobre a Context API, e aprender a como utilizar as notificações e sons do navegador para melhorar a experiência do usuário.
+
+- Dia 5: Próximo nível com React - Acelerando sua carreira  - :heavy_check_mark:
+
