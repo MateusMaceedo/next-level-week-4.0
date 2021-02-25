@@ -36,8 +36,11 @@ Preparados? Então vamos lá!
 
 #### Dias
 - Dia 1: Rumo ao próximo nível - :heavy_check_mark:
+>No primeiro dia vamos conhecer os conceitos por trás de um front-end SPA, os principais fundamentos do React como componentes, propriedades, estado e ferramentas que funcionam por trás da biblioteca como Webpack e Babel. Além disso, daremos início ao desenvolvimento da aplicação move.it, criando a estrutura básica de componentes da página.
+
 - Dia 2: Desvendando o Next.js - :heavy_check_mark:
+>Nesse segundo dia vamos aprender o que é Next.js e quando utilizar no desenvolvimento de aplicações React. Vamos também criar nossos próprios hooks dando vida às funcionalidades de countdown e ganho de experiência e leveis através de desafios.
+
 - Dia 3:
 - Dia 4:
 - Dia 5:
-
