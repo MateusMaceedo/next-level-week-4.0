@@ -1,8 +1,7 @@
 <h1 align="center">Move it</h1>
 
 <h2 align="center">Não fique parado! 💪 </h2>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" style="max-width:100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"/>
 
 # Next Level Week, trilha React.
 
