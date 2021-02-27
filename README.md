@@ -1,7 +1,13 @@
 <h1 align="center">Move it</h1>
 
 <h2 align="center">Não fique parado! 💪 </h2>
-<img src="/icons/mateusavatar.PNG" width="512" height="362"/>
+<div>
+        <strong>Projeto</strong>
+        <p>
+          <img src="/icons/mateusavatar.PNG" alt="Level"/>
+          Level { level }
+        </p>
+</div>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="512" height="362">
 
