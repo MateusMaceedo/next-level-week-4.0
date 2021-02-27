@@ -2,6 +2,10 @@
 
 <img src="https://github.com/MateusMaceedo/NLW.4-React/blob/main/public/icons/mateusavatar.PNG"/>
 
+<h4 align = "center"> 
+	: heavy_check_mark: Move it 🚀 Pronto! : heavy_check_mark:
+</h4>
+
 # Next Level Week, trilha React.
 
 Trilha do evento Next Level Week na versão 4, desenvolvimento web com "React".
@@ -75,7 +79,7 @@ Projeto desenvolvido durante a **NLW#04** oferecida pela [Rocketseat](https://ro
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/loadingGabriel/Moveit>
+$ git clone <https://github.com/MateusMaceedo/NLW.4-React.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Moveit
