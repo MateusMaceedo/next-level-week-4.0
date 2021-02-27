@@ -98,10 +98,9 @@ $ yarn dev
 # O aplicação inciará (geralmente) na porta:3000 - acesse <http://localhost:3000>
 ```
 
-
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
- <img style="border-radius:50%" width="100px; "src=""/>
+ <img style="border-radius:50%" width="100px; "src="/icons/Avatar.png"/>
  <p>Mateus Macedo</p>
 </a>
 
