@@ -3,8 +3,6 @@
 <h2 align="center">Não fique parado! 💪 </h2>
 <img src="https://github.com/MateusMaceedo/NLW.4-React/blob/main/public/icons/mateusavatar.PNG"/>
 
-## Configurações do ambiente - React
-
 # Introdução
 
 Um evento gratuito para desenvolvimento web **Next Level Week 04**, trilha **React** 🚀
