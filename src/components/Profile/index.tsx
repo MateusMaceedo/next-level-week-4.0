@@ -6,9 +6,9 @@ export function Profile () {
   const { level } = useContext(ChallengesContext)
   return (
     <S.Wrapper>
-      <img src="https://github.com/loadingGabriel.png" />
+      <img src="https://avatars.githubusercontent.com/u/63172367?s=400&amp;u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&amp;v=4" />
       <div>
-        <strong>Gabriel Mendonça</strong>
+        <strong>Mateus Macedo</strong>
         <p>
           <img src="/icons/level.svg" alt="Level"/>
           Level { level }
